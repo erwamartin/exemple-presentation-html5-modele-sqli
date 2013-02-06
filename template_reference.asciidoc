@@ -289,10 +289,10 @@ Obligé de rajouter "?&wmode=transparent&iv_load_policy=3&enable" dans le cadre 
 [{stepwise}]
 --
 ----
-audio::dzslides/audio/Insensatez_-_Lullaby_Of_Birdland__George_Shearing_.ogg[]
+audio::ressources/audio/Insensatez_-_Lullaby_Of_Birdland__George_Shearing_.ogg[]
 ----
 
-audio::dzslides/audio/Insensatez_-_Lullaby_Of_Birdland__George_Shearing_.ogg[]
+audio::ressources/audio/Insensatez_-_Lullaby_Of_Birdland__George_Shearing_.ogg[]
 
 Vidéo
 
@@ -315,11 +315,11 @@ Exemple
 
 ----
 .Vidéo d'exemple
-video::dzslides/videos/gizmo.ogv[width=300, option="controls,autoplay"]
+video::ressources/videos/gizmo.ogv[width=300, option="controls,autoplay"]
 ----
 
 .Vidéo
-video::dzslides/videos/gizmo.ogv[width=300, option="controls"]
+video::ressources/videos/gizmo.ogv[width=300, option="controls"]
 
 
 [role="red3"]
