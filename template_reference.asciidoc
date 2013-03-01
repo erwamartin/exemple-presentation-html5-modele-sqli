@@ -98,9 +98,9 @@ image::dzslides/images/logo.png["Logo",role="icone"]
 Une assertion, avec *mise en avant*
 
 
-== \\
+== {nbsp}
 
-Une dispo sans titre, mais avec des notes (activer le mode présentateur pour les voir, via le fichier onstage.html dans ce même répertoire).
+Une dispo sans titre, mais avec des notes (activer le mode présentateur pour les voir, via le fichier dzslides/shells/onstage.html).
 
 [quote, Le Père Noël]
 ____
