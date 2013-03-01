@@ -7,12 +7,10 @@
 // dzslides en embarquant les ressources
 // asciidoc -a data-uri -a linkcss! <nomfichier>.asciidoc
 = Titre de la présentation, avec *mise en avant* de texte sous **différentes formes**.
-Equipe Java-Web SQLI
+Equipe SQLI
 v1.0
-//:doctitle: Titre de la présentation, sans mise en avant de texte sous différentes formes.
-//:author: Equipe Java-webSQLI, V1.0
 :title: Titre de la présentation, avec mise en avant de texte sous différentes formes.
-:subtitle: Un sous titre assez long qui merite plusieurs lignes , et qui peut même aller jusqu'à 3 lignes
+:subtitle: Un sous titre assez long qui peut aller jusqu'à 2 lignes
 :description: Une description.
 :copyright: Copyright 2013 SQLI
 :website: dsffsd
@@ -21,7 +19,6 @@ v1.0
 //:imagesdir: 
 :backend: dzslides
 :linkcss: true
-// A remplacer par sqli
 :dzslides-style: sqli
 :dzslides-transition: fade
 //:dzslides-fonts: family=Yanone+Kaffeesatz:400,700,200,300&family=Cedarville+Cursive
@@ -31,7 +28,6 @@ v1.0
 :syntax: no-highlight
 // Possibilité d'ajouter son propre css (il faut spécifier le chemin complet)
 //:sqli-custom-css: test.css
-//:unevariable: Exemple de variable à substituer
 
 == Une diapo
 
@@ -64,7 +60,7 @@ v1.0
 * Point *n*
 
 [{intro}]
-// le fond est ici choisit
+// le fond est ici choisi
 == Une diapo d'intercalaire avec un fond spécifié
 // Image de fond (un seul ":")
 image:dzslides/images/fond_3.jpg[fond]
