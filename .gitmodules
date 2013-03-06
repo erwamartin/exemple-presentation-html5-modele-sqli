@@ -1,7 +1,6 @@
 [submodule "dzslides"]
 	path = dzslides
 	url = git://github.com/sqli-nantes/dzslides.git
-	
 [submodule "asciidoc-dzslides-backend"]
 	path = asciidoc-dzslides-backend
 	url = git://github.com/sqli-nantes/asciidoc-dzslides-backend.git
