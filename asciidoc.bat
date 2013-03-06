@@ -1,1 +1,0 @@
-python %ASCIIDOC_HOME%\asciidoc.py %*
